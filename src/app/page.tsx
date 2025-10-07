@@ -19,7 +19,7 @@ export default function HomePage() {
   ];
 
   const recentActivity = [
-    { employee: "Sarah Johnson", action: "Submitted leave request", time: "2 hours ago" },
+    { employee: "Krishna Kumar", action: "Submitted leave request", time: "2 hours ago" },
     { employee: "Mike Chen", action: "Updated profile", time: "4 hours ago" },
     { employee: "Emily Davis", action: "Completed training", time: "5 hours ago" },
     { employee: "James Wilson", action: "New hire onboarding", time: "1 day ago" },
